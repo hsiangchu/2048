@@ -329,34 +329,46 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
+    background: url("https://www.pinterest.ca/pin/481040803944842395/");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: url("https://www.pinterest.ca/pin/52072939427028487/");
+background-size: cover;
+color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
+    background: url("https://www.pinterest.ca/pin/562668547192706994/");
+background-size: cover;
+color: rgb(0,0,0,0);
     background: #f2b179; }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    background: url("https://www.pinterest.ca/pin/307792955777768502/
+");
+background-size: cover;
+color: rgb(0,0,0,0);
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    background: url("https://www.pinterest.ca/pin/52072939427063356/");
+background-size: cover;
+color: rgb(0,0,0,0);
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    background: url("https://www.pinterest.ca/pin/809381364256602967/");
+background-size: cover;
+color: rgb(0,0,0,0);
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
+    background: url("http://himg2.huanqiu.com/attachment2010/2018/1102/14/00/20181102020001465.jpg");
+background-size: cover;
+color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
-    background: #edcc61;
+    background: url("https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwi9wLX3pfzhAhUBXbwKHTiPDiYQjRx6BAgBEAU&url=http%3A%2F%2Fent.huanqiu.com%2Fmusic%2Fyinle-nedi%2F2018-11%2F13430278.html&psig=AOvVaw3cN2lpX_w4BgQ0_zf-VRj_&ust=1556867608178619");
+background-size: cover;
+color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
