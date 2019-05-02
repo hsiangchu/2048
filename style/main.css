@@ -355,8 +355,10 @@ background-size: cover;
 color: rgb(0,0,0,0);
      }
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    background: url(https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/30708421_167726863930754_4639103895644143616_n.jpg?_nc_cat=110&_nc_ht=scontent-tpe1-1.xx&oh=36b3705a650d2d06dcd80aea91a96965&oe=5D2CA87A);
+background-size: cover;
+color: rgb(0,0,0,0);
+     }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     background: #f65e3b; }
