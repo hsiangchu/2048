@@ -367,7 +367,7 @@ background-size: cover;
 color: rgb(0,0,0,0);
 }
   .tile.tile-128 .tile-inner {
-    background: url(“https://i.pinimg.com/564x/33/b0/97/33b09798be4d959c9d121e6592d12f8d.jpg”);
+    background: url(https://i.pinimg.com/564x/33/b0/97/33b09798be4d959c9d121e6592d12f8d.jpg);
 background-size: cover;
 color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
