@@ -337,20 +337,20 @@ hr {
 
   .tile.tile-4 .tile-inner {
     
-    background: url("https://i.pinimg.com/564x/76/ed/99/76ed9984870dafd30eb6f491228c31b8.jpg");
+    background: url(https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike72%2C5%2C5%2C72%2C24/sign=82fd83a777ec54e755e1124cd851f035/0e2442a7d933c895728196e2dd1373f0830200af.jpg);
     background-size: cover;
     color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
   .tile.tile-8 .tile-inner {
-background: url("https://i.pinimg.com/originals/b2/c5/3d/b2c53d36744d014951025a76bdc1183b.jpg");
+background: url(https://i.pinimg.com/originals/b2/c5/3d/b2c53d36744d014951025a76bdc1183b.jpg);
 background-size: cover;
 color: rgb(0,0,0,0);
     }
 
   .tile.tile-16 .tile-inner {
  
-background: url("https://i.pinimg.com/564x/92/47/6a/92476a862aa01bd1895eaf612b2e78fc.jpg");
+background: url(https://i.pinimg.com/564x/92/47/6a/92476a862aa01bd1895eaf612b2e78fc.jpg);
 background-size: cover;
 color: rgb(0,0,0,0);
      }
